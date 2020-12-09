@@ -25,5 +25,6 @@ Featured in
 - API development and documentation
 - GIT
 - AWS
+
 I am looking for a good position to demonstrate my skills. Ready to provide my full time service with highest quality.
 Thank you! 
