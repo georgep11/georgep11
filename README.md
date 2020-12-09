@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have 8+ years of experiences in web development and other programming.
+Featured in
+- HTML/CSS
+- Javascript
+- React, Angular and Vue
+- PHP, Wordpress and Laravel
+- MySQL, PostgreSQL, MongoDB, MSSQL
+- API development and documentation
+- GIT
+- AWS
+I am looking for a good position to demonstrate my skills. Ready to provide my full time service with highest quality.
+Thank you! 
