@@ -19,8 +19,8 @@ I have 8+ years of experiences in web development and other programming.
 Featured in
 - HTML/CSS
 - Javascript
-- React, Angular and Vue
-- PHP, Wordpress and Laravel
+- React and Vue
+- Node/Express, Python/Django and Laravel
 - MySQL, PostgreSQL, MongoDB, MSSQL
 - API development and documentation
 - GIT
