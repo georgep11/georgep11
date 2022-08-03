@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 I have 8+ years of experiences in web development and other programming.
 Featured in
-- HTML/CSS
-- Javascript
+- HTML/CSS/Javascript
 - React and Vue
 - Node/Express, Python/Django and Laravel
 - MySQL, PostgreSQL, MongoDB, MSSQL
