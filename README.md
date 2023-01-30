@@ -19,12 +19,13 @@ I am a software engineer who loves to code and program web apps / mobile apps �
 - ✅ Apollo / GraphQL / The Graph
 - ✅ Storybook
 - ✅ Chakra UI / Material UI / Tailwind CSS / Ant Design
+- ✅ Angular
 - ✅ React JS / Next JS / Gatsby JS
 - ✅ Vue JS / Nuxt JS
+- ✅ C# / ASP.NET / ASP.NET MVC
 - ✅ Node JS / Express JS / Nest JS / REST API
-- ✅ PHP / Laravel
-- ✅ MongoDB / Mongoose / Postgres SQL / MySQL
+- ✅ MongoDB / Mongoose / Postgres SQL / Microsoft SQL Server
 - ✅ JWT / Bcrypt JS / Passport JS / Auth0
 - ✅ Firebase
 - ✅ Git / GitHub / Gitlab
-- ✅ AWS / Google Cloud
+- ✅ Azure / AWS / Google Cloud
