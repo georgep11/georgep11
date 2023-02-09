@@ -24,6 +24,7 @@ I am a software engineer who loves to code and program web apps / mobile apps �
 - ✅ Vue JS / Nuxt JS
 - ✅ C# / ASP.NET / ASP.NET MVC
 - ✅ Node JS / Express JS / Nest JS / REST API
+- ✅ Python / Django / Flask / FastAPI
 - ✅ MongoDB / Mongoose / Postgres SQL / Microsoft SQL Server
 - ✅ JWT / Bcrypt JS / Passport JS / Auth0
 - ✅ Firebase
