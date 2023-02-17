@@ -13,9 +13,7 @@
 I am a software engineer who loves to code and program web apps / mobile apps 💻📱. I have always been passionate about coding since a young age. I also see myself becoming more expert at coding and solving more complex problems in today's world of programming.
 
 # 🛠 &nbsp;My Tech Stack
-- ✅ HTML
-- ✅ CSS / Sass / Styled Component
-- ✅ JavaScript
+- ✅ JavaScript / Typescript
 - ✅ Apollo / GraphQL / The Graph
 - ✅ Storybook
 - ✅ Chakra UI / Material UI / Tailwind CSS / Ant Design
